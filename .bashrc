@@ -6,7 +6,7 @@ alias gcom='git commit -a -m $*'
 alias push='git push -u origin master'
 alias pull='git pull'
 
-alias pro='cd ~/new0project'
+alias pro='cd d/projects'
 
 alias i='npm i $*'
 alias s='npm start $*'
